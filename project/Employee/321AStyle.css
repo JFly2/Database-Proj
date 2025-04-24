@@ -1,0 +1,91 @@
+body, html{
+	background-color: darkgrey !important;
+  height: 100%;
+  margin: 0;
+}
+
+
+
+.custom-paragraph {
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  margin-top: 150px;
+}
+
+
+.top-left-heading {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  margin: 0;
+  font-size: 24px;
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  gap: 20px;
+}
+
+
+.custom-navbar {
+  background-color: black;
+}
+
+button {
+  background-color: orange;
+  color: black;
+  border: none;
+  height: 34px;
+  width: 74px;
+  border: none;
+  border-radius: 10px !important;
+
+  cursor:pointer;
+}
+
+button:hover{
+  opacity: 0.8;
+}
+ .home-button {
+   background-color: orange;
+   color: black;
+   text-align: center;
+   border: none;
+   height: 37px;
+   width: 107px;
+   border-radius: 10px !important;
+   padding: 5px;
+   transition: opacity 0.15s;
+   cursor:pointer;
+
+ }
+
+.home-button:hover {
+   opacity: 0.8;
+ }
+
+ .add-employee{
+   background-color: orange;
+   color: black;
+   font-size: 12px;
+   text-align: center;
+   border: none;
+   height: 37px;
+   width: 107px;
+   border-radius: 10px !important;
+   padding: 5px;
+   transition: opacity 0.15s;
+   cursor:pointer;
+ }
+.add-employee:hover {
+  opacity: 0.8;
+}
+.results-container {
+  margin-top: 100px;
+  text-align: center;
+}
