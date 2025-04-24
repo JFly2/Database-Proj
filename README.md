@@ -91,11 +91,11 @@ Captures customer feedback for events.
 
 ## Sample Data Includes
 
-- 🎭 3 Customers (`Freddy Krueger`, `Ellen Ripley`, `Michael Myers`)
-- 👥 3 Employees (`James`, `Allison`, `Donato`)
-- 🛠️ 5 Rental Items (e.g., Chair, Tent, Projector)
-- 📆 3 Party Events
-- ⭐ 3 Customer Feedback records
+- 3 Customers (`Freddy Krueger`, `Ellen Ripley`, `Michael Myers`)
+- 3 Employees (`James`, `Allison`, `Donato`)
+- 5 Rental Items (e.g., Chair, Tent, Projector)
+- 3 Party Events
+- 3 Customer Feedback records
 
 ---
 
